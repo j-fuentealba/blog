@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exi",
+				"existeOC"
+			],
+			[
+				"fecha",
+				"fechaRecepcion"
+			],
+			[
+				"factura",
+				"factura_id"
+			],
+			[
+				"name",
+				"nameProduct"
+			],
+			[
+				"orde",
+				"ordenCompra_id"
+			],
+			[
+				"soli",
+				"solicitud_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/OrdenCompraController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/ordenCompra/index.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/database/migrations/2020_07_29_123343_create_status_contratos_table.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/database/migrations/2020_07_29_123950_create_move_contratos_table.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/MoveContrato.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/ContratoController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/LicitacionController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/SCM_AdminSolicitudController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/solicitud/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/admin/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/SCM_SolicitudController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/licitacion/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/admin/index.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/routes/web.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/contratos/index.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Http/Controllers/FacturaController.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/menu.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/database/migrations/2020_07_12_172309_create_contratos_table.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/database/migrations/2019_12_27_152017_create_facturas_table.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/.env",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/Contrato.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/admin/entregaStock/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/ordenCompra/recepcionarProductos.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/app/OrdenCompra.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/ordenCompra/agregarProductos.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/factura/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/siscom/ordenCompra/show.blade.php",
+		"/home/jfuentealba/Projects/intranetMunicipal/resources/views/users/index.blade.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".editorconfig.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 391.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
